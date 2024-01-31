@@ -1,4 +1,4 @@
- 
+   
 Image registration plays a crucial role in computer vision by addressing the challenge of aligning images that might be captured under different conditions, perspectives, or times. The influence of image registration in computer vision can be observed in various applications and tasks:
     
 1. **Object Recognition and Detection:** 
