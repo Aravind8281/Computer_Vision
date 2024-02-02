@@ -1,5 +1,5 @@
 Computer vision in artificial intelligence (AI) involves the development of algorithms and systems that enable computers to interpret and understand visual information from the world. The goal is to mimic and enhance human vision capabilities by giving machines the ability to analyze and make decisions based on visual data.
- 
+  
 1. **Image Recognition and Understanding:**
    - Computer vision systems can process and interpret images, recognizing objects, patterns, and structures within them.
    - Image recognition involves classifying and identifying objects or scenes, allowing machines to understand and categorize visual data.
