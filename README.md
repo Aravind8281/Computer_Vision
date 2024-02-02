@@ -8,7 +8,7 @@ Computer vision in artificial intelligence (AI) involves the development of algo
    - Object detection goes beyond recognition and involves locating and identifying multiple objects within an image or video stream.
    - It is used in applications such as self-driving cars, surveillance, and augmented reality.
 
-3. **Image Segmentation:** 
+3. **Image Segmentation:**  
    - Image segmentation involves dividing an image into meaningful segments or regions. Each segment represents a specific object or area.
    - It is valuable for tasks like medical image analysis, where precise delineation of structures is crucial.
 
