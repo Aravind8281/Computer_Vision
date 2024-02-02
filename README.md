@@ -3,7 +3,7 @@ Computer vision in artificial intelligence (AI) involves the development of algo
 1. **Image Recognition and Understanding:**
    - Computer vision systems can process and interpret images, recognizing objects, patterns, and structures within them.
    - Image recognition involves classifying and identifying objects or scenes, allowing machines to understand and categorize visual data.
-
+ 
 2. **Object Detection:**
    - Object detection goes beyond recognition and involves locating and identifying multiple objects within an image or video stream.
    - It is used in applications such as self-driving cars, surveillance, and augmented reality.
