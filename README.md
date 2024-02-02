@@ -5,7 +5,7 @@ Computer vision in artificial intelligence (AI) involves the development of algo
    - Image recognition involves classifying and identifying objects or scenes, allowing machines to understand and categorize visual data.
    
 2. **Object Detection:**
-   - Object detection goes beyond recognition and involves locating and identifying multiple objects within an image or video stream.
+   - Object detection goes beyond recognition and involves locating and identifying multiple objects within an image or video stream. 
    - It is used in applications such as self-driving cars, surveillance, and augmented reality.
 
 3. **Image Segmentation:**  
